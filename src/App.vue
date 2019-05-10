@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
+    <img alt="Vue logo" width="150" src="./assets/wolf.png">
     <!--<HelloWorld msg="kwg kwg kwg kwg wg"/>-->
     <countProperty></countProperty>
     <name aaa='name'/>
