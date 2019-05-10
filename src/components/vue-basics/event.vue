@@ -1,5 +1,6 @@
 <template>
     <div>
+        <h1 style="color: #1fed5e;">------event-------</h1>
         <button :class="msg"></button>
         <div>
             <div @click="prent">1212</div>

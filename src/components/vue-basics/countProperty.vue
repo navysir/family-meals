@@ -1,5 +1,6 @@
 <template>
   <div :class="{'test1':cc}">
+    <h1 style="color: #1fed5e;">------countProterty-------</h1>
     <span>你借了我的{{money}}，还剩下{{balance}}钱没还，尼玛快点还吧！</span>
     <span :class="nana"></span>
     <ul>
@@ -20,7 +21,7 @@
 <script>
 
   export default {
-    name: 'name',
+    name: 'countProperty',
     props: {
       aaa: String
     },

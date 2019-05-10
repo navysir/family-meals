@@ -2,8 +2,8 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
     <!--<HelloWorld msg="kwg kwg kwg kwg wg"/>-->
-    <!--<countProperty></countProperty>-->
-    <!--<name aaa='name'/>-->
+    <countProperty></countProperty>
+    <name aaa='name'/>
     <event></event>
     <!--<cube-button>这是一个按钮</cube-button>-->
   </div>
@@ -11,18 +11,18 @@
 
 <script>
 // import HelloWorld from './components/HelloWorld.vue'
-import  drictives from './components/drictives.js'
-import  name from './components/name.vue'
-import  event from './components/event.vue'
-// import  countProperty from './components/countProperty.vue'
+import  drictives from './components/vue-basics/common-js/drictives.js'
+import  name from './components/vue-basics/name.vue'
+import  event from './components/vue-basics/event.vue'
+import  countProperty from './components/vue-basics/countProperty.vue'
 
 
 export default {
   name: 'app',
   components: {
-    // countProperty,
-    // name,
-    event
+    countProperty,
+    name,
+    event,
     // HelloWorld
   }
 }

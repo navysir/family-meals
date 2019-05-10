@@ -1,5 +1,6 @@
 <template>
   <div class="hello">
+    <h1 style="color: #1fed5e;">------vbind-------</h1>
     <h1>{{ aaa }}{{bbb}}</h1>
     <span v-html="spa" v-bind:id="ids"></span>
     <div class="static" v-bind:class="{b:isactive},errorClass"></div>
