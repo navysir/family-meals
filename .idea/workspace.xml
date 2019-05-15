@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="199420fe-f617-482d-a74c-6e3971afd40d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/5b51bf05d3d92fdcb2b208d19a7a5267.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/5b51bf05d3d92fdcb2b208d19a7a5267.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d90692bf55fce838834d72f46f38a671.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d90692bf55fce838834d72f46f38a671.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e97211ef85adc821e9ef6da67e10097a.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e97211ef85adc821e9ef6da67e10097a.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/66335ee893825581dbe3306b318124ae.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/66335ee893825581dbe3306b318124ae.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/988f5beb5c546228df6355a8d06ba946.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/988f5beb5c546228df6355a8d06ba946.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/9a29ea4b6ee1221e95abeed86f57cfc6.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/9a29ea4b6ee1221e95abeed86f57cfc6.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/b9ccbd71806a6fa7cfcb924bf2d635d3.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/b9ccbd71806a6fa7cfcb924bf2d635d3.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/c4ae7916de46582aece1a42fbde928bd.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/c4ae7916de46582aece1a42fbde928bd.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/c85e89e4b96cb77b0ce812e8ce4afb12.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/c85e89e4b96cb77b0ce812e8ce4afb12.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/dafa019c836c1507d8c7ebeb0d304dbf.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/dafa019c836c1507d8c7ebeb0d304dbf.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/db37671fec9ec1d8270772f9ca769242.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/db37671fec9ec1d8270772f9ca769242.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/dc4660221383c7b7ed9670b3c830c12a.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/dc4660221383c7b7ed9670b3c830c12a.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/vue-basics/templates.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/vue-basics/templates.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
-    </list>
+    <list default="true" id="199420fe-f617-482d-a74c-6e3971afd40d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -33,8 +16,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="693">
-              <caret line="35" column="14" lean-forward="true" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+            <state relative-caret-position="770">
+              <caret line="35" column="14" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -42,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/vue-basics/templates.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="49" column="47" lean-forward="true" selection-start-line="49" selection-start-column="47" selection-end-line="49" selection-end-column="47" />
+            <state relative-caret-position="280">
+              <caret line="62" column="14" lean-forward="true" selection-start-line="62" selection-start-column="14" selection-end-line="62" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -203,17 +186,17 @@
       <workItem from="1557823311200" duration="110000" />
       <workItem from="1557823454988" duration="6356000" />
       <workItem from="1557848445630" duration="4364000" />
+      <workItem from="1557911027694" duration="250000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25022000" />
+    <option name="totallyTimeSpent" value="25272000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="121" y="23" width="1317" height="823" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12882954" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13040063" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -227,11 +210,11 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.31053352" />
-      <window_info anchor="right" id="Nativescript Palette" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.31053352" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Nativescript Palette" order="3" />
     </layout>
     <layout-to-restore>
       <window_info id="npm" order="0" side_tool="true" />
@@ -336,6 +319,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/vue-basics/routerA.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="35" column="14" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/data.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/vue-basics/common-js/router-config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -346,27 +346,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/vue-basics/routerA.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/data.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="693">
-          <caret line="35" column="14" lean-forward="true" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/vue-basics/templates.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="49" column="47" lean-forward="true" selection-start-line="49" selection-start-column="47" selection-end-line="49" selection-end-column="47" />
+        <state relative-caret-position="280">
+          <caret line="62" column="14" lean-forward="true" selection-start-line="62" selection-start-column="14" selection-end-line="62" selection-end-column="14" />
         </state>
       </provider>
     </entry>
