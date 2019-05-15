@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" width="150" src="./assets/wolf.png">
+    <!--<img alt="Vue logo" width="150" src="./assets/wolf.png">-->
     <!--<HelloWorld msg="kwg kwg kwg kwg wg"/>-->
     <templates :age='age' @patch="emmsg">
       <h2 slot="a">我要加东西</h2>
@@ -16,10 +16,10 @@
 <script>
 // import HelloWorld from './components/HelloWorld.vue'
 import templates from './components/vue-basics/templates.vue'
-import  drictives from './components/vue-basics/common-js/drictives.js'
-import  name from './components/vue-basics/name.vue'
-import  event from './components/vue-basics/event.vue'
-import  countProperty from './components/vue-basics/countProperty.vue'
+// import  drictives from './components/vue-basics/common-js/drictives.js'
+// import  name from './components/vue-basics/name.vue'
+// import  event from './components/vue-basics/event.vue'
+// import  countProperty from './components/vue-basics/countProperty.vue'
 
 
 export default {
@@ -30,9 +30,9 @@ export default {
     }
   },
   components: {
-    countProperty,
-    name,
-    event,
+    // countProperty,
+    // name,
+    // event,
     templates,
     // HelloWorld
   },
@@ -52,7 +52,10 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: left;
   color: #2c3e50;
-  margin-top: 60px;
+  margin-top: 20px;
   padding: 10px;
 }
+  html{
+    background: black;
+  }
 </style>
