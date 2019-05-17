@@ -2,13 +2,16 @@
   <div id="app">
     <!--<img alt="Vue logo" width="150" src="./assets/wolf.png">-->
     <!--<HelloWorld msg="kwg kwg kwg kwg wg"/>-->
-    <templates :age='age' @patch="emmsg">
-      <h2 slot="a">我要加东西</h2>
-      <h2 slot="b">我要加东西</h2>
-    </templates>
-    <countProperty></countProperty>
-    <name aaa='name'/>
-    <event></event>
+    <!--<templates :age='age' @patch="emmsg">-->
+      <!--<h2 slot="a">我要加东西</h2>-->
+      <!--<h2 slot="b">我要加东西</h2>-->
+    <!--</templates>-->
+    <!--<countProperty></countProperty>-->
+    <!--<name aaa='name'/>-->
+    <!--<event/>-->
+    <pagea />
+    <pageb />
+    <!--<vuex/>-->
     <!--<cube-button>这是一个按钮</cube-button>-->
   </div>
 </template>
@@ -16,10 +19,13 @@
 <script>
 // import HelloWorld from './components/HelloWorld.vue'
 import templates from './components/vue-basics/templates.vue'
+// import vuex from "./components/vue-basics/vuex.vue";
 // import  drictives from './components/vue-basics/common-js/drictives.js'
 // import  name from './components/vue-basics/name.vue'
 // import  event from './components/vue-basics/event.vue'
 // import  countProperty from './components/vue-basics/countProperty.vue'
+import pagea from './components/vue-basics/pa.vue';
+import pageb from './components/vue-basics/pb.vue';
 
 
 export default {
@@ -33,7 +39,10 @@ export default {
     // countProperty,
     // name,
     // event,
-    templates,
+    // templates,
+    // vuex,
+    pagea,
+    pageb,
     // HelloWorld
   },
   methods:{
@@ -56,6 +65,6 @@ export default {
   padding: 10px;
 }
   html{
-    background: black;
+    background: #beffea;
   }
 </style>
