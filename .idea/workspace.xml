@@ -2,46 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="199420fe-f617-482d-a74c-6e3971afd40d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/study/vertical.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/04ec6e47d1b879d1bdf14b6b0dcfb3f7.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/04ec6e47d1b879d1bdf14b6b0dcfb3f7.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/3f0ec9006869b435e3965ef8ed0a78c3.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/3f0ec9006869b435e3965ef8ed0a78c3.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/8cda318424da72b72d55b9e99196094e.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/8cda318424da72b72d55b9e99196094e.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/c6d6572770a9620aa0f8269a4a591411.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/c6d6572770a9620aa0f8269a4a591411.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/d006be97aa86fd2665e16576751c3ae1.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/d006be97aa86fd2665e16576751c3ae1.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/async-limiter/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/async-limiter/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bfj/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bfj/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/check-types/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/check-types/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ejs/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/filesize/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/filesize/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gzip-size/node_modules/pify/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gzip-size/node_modules/pify/license" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gzip-size/node_modules/pify/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gzip-size/node_modules/pify/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gzip-size/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/gzip-size/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/hoopy/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/hoopy/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/opener/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/opener/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tryer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tryer/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-bundle-analyzer/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webpack-bundle-analyzer/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-bundle-analyzer/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webpack-bundle-analyzer/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-bundle-analyzer/lib/analyzer.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webpack-bundle-analyzer/lib/analyzer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-bundle-analyzer/lib/bin/analyzer.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webpack-bundle-analyzer/lib/bin/analyzer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-bundle-analyzer/lib/tree/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webpack-bundle-analyzer/lib/tree/utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-bundle-analyzer/lib/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webpack-bundle-analyzer/lib/utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-bundle-analyzer/lib/viewer.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webpack-bundle-analyzer/lib/viewer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-bundle-analyzer/node_modules/acorn/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webpack-bundle-analyzer/node_modules/acorn/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-bundle-analyzer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webpack-bundle-analyzer/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-bundle-analyzer/public/viewer.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webpack-bundle-analyzer/public/viewer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-bundle-analyzer/public/viewer.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webpack-bundle-analyzer/public/viewer.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-bundle-analyzer/src/analyzer.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webpack-bundle-analyzer/src/analyzer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-bundle-analyzer/src/bin/analyzer.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webpack-bundle-analyzer/src/bin/analyzer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-bundle-analyzer/src/tree/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webpack-bundle-analyzer/src/tree/utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-bundle-analyzer/src/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webpack-bundle-analyzer/src/utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-bundle-analyzer/src/viewer.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webpack-bundle-analyzer/src/viewer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-bundle-analyzer/views/script.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webpack-bundle-analyzer/views/script.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-bundle-analyzer/views/viewer.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webpack-bundle-analyzer/views/viewer.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ws/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ws/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -53,7 +15,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/study/vertical.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="291">
+              <caret line="52" column="23" lean-forward="true" selection-start-line="52" selection-start-column="23" selection-end-line="52" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -61,6 +33,7 @@
         <option value="CSS File" />
         <option value="JavaScript File" />
         <option value="Vue Single File Component" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -101,13 +74,14 @@
         <option value="$PROJECT_DIR$/src/App.vue" />
         <option value="$PROJECT_DIR$/src/components/vue-basics/pb.vue" />
         <option value="$PROJECT_DIR$/src/components/vue-basics/store/moduls/b.js" />
+        <option value="$PROJECT_DIR$/study/vertical.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="5" />
-    <option name="y" value="25" />
-    <option name="width" value="1317" />
+    <option name="y" value="23" />
+    <option name="width" value="1418" />
     <option name="height" value="823" />
   </component>
   <component name="ProjectView">
@@ -115,11 +89,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="family-meals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="family-meals" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -178,16 +163,19 @@
       <workItem from="1558090290947" duration="3887000" />
       <workItem from="1558094672428" duration="1888000" />
       <workItem from="1558673120765" duration="567000" />
+      <workItem from="1558692854461" duration="217000" />
+      <workItem from="1558955498297" duration="3422000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40106000" />
+    <option name="totallyTimeSpent" value="43745000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="5" y="25" width="1317" height="823" extended-state="0" />
+    <frame x="5" y="23" width="1418" height="823" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14375491" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13755459" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -427,6 +415,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/vertical.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="52" column="23" lean-forward="true" selection-start-line="52" selection-start-column="23" selection-end-line="52" selection-end-column="23" />
         </state>
       </provider>
     </entry>
