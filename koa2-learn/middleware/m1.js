@@ -1,23 +1,12 @@
-function m1(etx){
-    globle.console.log(etx.path+'成功');
+function m1(ctx){
+  global.console.log('m1')
 }
 
-module.exports = function () {
-    return async function(etx, next){
-        globle.console.log('start m1');
-        m1(etx)
-        await next()
-        globle.console.log('end m1');
-    }
+module.exports=function(){
+  return async function(ctx,next){
+    global.console.log('m1 start')
+    m1(ctx)
+    await next()
+    global.console.log('m1 end')
+  }
 }
-
-
-
-// module.exports => {
-//     return async = (etx, next) => {
-//         globle.console.log('start m1');
-//         m1(etx);
-//         await next();
-//         globle.console.log('end m1');
-//     }
-// }

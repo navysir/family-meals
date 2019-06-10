@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>this</title>
+</head>
+<body>
+
+</body>
+<script>
+    function fn(name='navy',age=29) {
+        console.log(name +' is '+age+' years old!');
+    }
+    fn();
+
+    var age = 1;
+    let navy = {
+        age:2,
+        grow:function () {//bind
+            setTimeout(function () {
+               console.log(++this.age);
+            }.bind(this),100);
+        },
+        grow1:function () {//hack
+            const self = this;
+            setTimeout(function () {
+                console.log(self.age);
+            },100)
+        },
+        grow2:function () {
+            setTimeout(() => {
+                console.log(this.age);
+            },100)
+        }
+
+    }
+    navy.grow();
+    navy.grow1();
+    navy.grow2();
+</script>
+</html>
